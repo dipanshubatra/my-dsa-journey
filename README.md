@@ -23,6 +23,8 @@ This repo contains categorized and well-structured solutions with clean code, co
 | 2   | Longest Common Prefix        | Easy       | [02_longest_common_prefix.py](string-dsa-problems/02_longest_common_prefix.py) |
 | 3   | Valid Anagram                | Easy       | [03_Valid_Anagram.py](string-dsa-problems/03_Valid_Anagram.py) |
 | 4   | Reverse Words in a String    | Medium     | [04_Reverse_Words_in_a_String.py](string-dsa-problems/04_Reverse_Words_in_a_String.py) |
+| 5   | Remove All Occurrences of a Substring | Medium     | [05_Remove All Occurrences_of_a_Substring.py](string-dsa-problems/05_Remove%20All%20Occurrences_of_a_Substring.py) |
+| 6   | Permutation in String                 | Medium     | [06_Permutation_in_String.py](string-dsa-problems/06_Permutation_in_String.py) |
 
 </details>
 
