@@ -7,22 +7,25 @@ This repo contains categorized and well-structured solutions with clean code, co
 
 ## 📊 Progress
 
-![Solved](https://img.shields.io/badge/Solved-2%20%2F%209-blueviolet)  
-> Total problems solved in Strings: **2 / 9**
+![Solved](https://img.shields.io/badge/Solved-4%20%2F%209-blueviolet)  
+> Total problems solved in Strings: **4 / 9**
 
 ---
 
 ## 🧵 String DSA Problems
 
 <details open>
-<summary><strong>📂 String Problems (2 / 9 Solved)</strong> — Click to Expand</summary>
+<summary><strong>📂 String Problems (4 / 9 Solved)</strong> — Click to Expand</summary>
 
-| No. | Problem Title              | Solution File Link                                       |
-|-----|----------------------------|----------------------------------------------------------|
-| 1   | Valid Palindrome           | [01_valid_palindrome.py](string-dsa-problems/01_valid_palindrome.py) |
-| 2   | Longest Common Prefix      | [02_longest_common_prefix.py](string-dsa-problems/02_longest_common_prefix.py) |
+| No. | Problem Title                | Difficulty | Solution File Link                                                   |
+|-----|------------------------------|------------|----------------------------------------------------------------------|
+| 1   | Valid Palindrome             | Easy       | [01_valid_palindrome.py](string-dsa-problems/01_valid_palindrome.py) |
+| 2   | Longest Common Prefix        | Easy       | [02_longest_common_prefix.py](string-dsa-problems/02_longest_common_prefix.py) |
+| 3   | Valid Anagram                | Easy       | [03_Valid_Anagram.py](string-dsa-problems/03_Valid_Anagram.py) |
+| 4   | Reverse Words in a String    | Medium     | [04_Reverse_Words_in_a_String.py](string-dsa-problems/04_Reverse_Words_in_a_String.py) |
 
 </details>
+
 
 ---
 
