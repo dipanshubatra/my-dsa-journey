@@ -15,7 +15,7 @@ This repo contains categorized and well-structured solutions with clean code, co
 ## 🧵 String DSA Problems
 
 <details open>
-<summary><strong>📂 String Problems (4 / 9 Solved)</strong> — Click to Expand</summary>
+<summary><strong>📂 String Problems (8 / 9 Solved)</strong> — Click to Expand</summary>
 
 | No. | Problem Title                | Difficulty | Solution File Link                                                   |
 |-----|------------------------------|------------|----------------------------------------------------------------------|
