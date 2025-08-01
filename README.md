@@ -25,6 +25,8 @@ This repo contains categorized and well-structured solutions with clean code, co
 | 4   | Reverse Words in a String    | Medium     | [04_Reverse_Words_in_a_String.py](string-dsa-problems/04_Reverse_Words_in_a_String.py) |
 | 5   | Remove All Occurrences of a Substring | Medium     | [05_Remove All Occurrences_of_a_Substring.py](string-dsa-problems/05_Remove%20All%20Occurrences_of_a_Substring.py) |
 | 6   | Permutation in String                 | Medium     | [06_Permutation_in_String.py](string-dsa-problems/06_Permutation_in_String.py) |
+| 7   | String Compression           | Medium     | [07_String_Compression.py](string-dsa-problems/07_String_Compression.py) |
+| 8   | Group Anagrams               | Medium     | [08_Group_Anagrams.py](string-dsa-problems/08_Group_Anagrams.py) |
 
 </details>
 
