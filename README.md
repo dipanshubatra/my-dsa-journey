@@ -7,8 +7,8 @@ This repo contains categorized and well-structured solutions with clean code, co
 
 ## 📊 Progress
 
-![Solved](https://img.shields.io/badge/Solved-4%20%2F%209-blueviolet)  
-> Total problems solved in Strings: **4 / 9**
+![Solved](https://img.shields.io/badge/Solved-8%20%2F%209-blueviolet)
+> Total problems solved in Strings: **8/ 9**
 
 ---
 
