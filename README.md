@@ -7,8 +7,10 @@ This repo contains categorized and well-structured solutions with clean code, co
 
 ## 📊 Progress
 
-![Solved](https://img.shields.io/badge/Solved-8%20%2F%209-blueviolet)
-> Total problems solved in Strings: **8/ 9**
+![Solved](https://img.shields.io/badge/Solved-10%20%2F%2011-blueviolet)
+> Total problems solved in:
+- Strings: **8 / 9**
+- Arrays: **2 / 2**
 
 ---
 
@@ -24,12 +26,25 @@ This repo contains categorized and well-structured solutions with clean code, co
 | 3   | Valid Anagram                | Easy       | [03_Valid_Anagram.py](string-dsa-problems/03_Valid_Anagram.py) |
 | 4   | Reverse Words in a String    | Medium     | [04_Reverse_Words_in_a_String.py](string-dsa-problems/04_Reverse_Words_in_a_String.py) |
 | 5   | Remove All Occurrences of a Substring | Medium     | [05_Remove All Occurrences_of_a_Substring.py](string-dsa-problems/05_Remove%20All%20Occurrences_of_a_Substring.py) |
-| 6   | Permutation in String                 | Medium     | [06_Permutation_in_String.py](string-dsa-problems/06_Permutation_in_String.py) |
+| 6   | Permutation in String        | Medium     | [06_Permutation_in_String.py](string-dsa-problems/06_Permutation_in_String.py) |
 | 7   | String Compression           | Medium     | [07_String_Compression.py](string-dsa-problems/07_String_Compression.py) |
 | 8   | Group Anagrams               | Medium     | [08_Group_Anagrams.py](string-dsa-problems/08_Group_Anagrams.py) |
 
 </details>
 
+---
+
+## 🧮 Array DSA Problems
+
+<details open>
+<summary><strong>📂 Array Problems (2 / 2 Solved)</strong> — Click to Expand</summary>
+
+| No. | Problem Title                      | Difficulty | Solution File Link                                                               |
+|-----|------------------------------------|------------|----------------------------------------------------------------------------------|
+| 1   | Majority Element                   | Easy       | [01_Majority_Element.py](array-string-problem/01_Majority_Element.py)           |
+| 2   | Find Missing and Repeated Values   | Easy       | [02_Find Missing_and_Repeated_Values.py](array-string-problem/02_Find%20Missing_and_Repeated_Values.py) |
+
+</details>
 
 ---
 
@@ -37,6 +52,9 @@ This repo contains categorized and well-structured solutions with clean code, co
 
 ```
 dsa-journey/
+├── array-string-problem/
+│   ├── 01_Majority_Element.py
+│   └── 02_Find Missing_and_Repeated_Values.py
 ├── string-dsa-problems/
 │   ├── 01_valid_palindrome.py
 │   └── 02_longest_common_prefix.py
@@ -50,7 +68,7 @@ dsa-journey/
 
 ```bash
 # Run a specific Python file
-python3 string-dsa-problems/01_valid_palindrome.py
+python3 array-string-problem/01_Majority_Element.py
 ```
 
 ---
