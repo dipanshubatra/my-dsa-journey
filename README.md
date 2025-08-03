@@ -7,10 +7,10 @@ This repo contains categorized and well-structured solutions with clean code, co
 
 ## 📊 Progress
 
-![Solved](https://img.shields.io/badge/Solved-10%20%2F%2011-blueviolet)
+![Solved](https://img.shields.io/badge/Solved-12%20%2F%2013-blueviolet)
 > Total problems solved in:
 - Strings: **8 / 9**
-- Arrays: **2 / 2**
+- Arrays: **4 / 4**
 
 ---
 
