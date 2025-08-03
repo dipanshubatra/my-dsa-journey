@@ -43,6 +43,8 @@ This repo contains categorized and well-structured solutions with clean code, co
 |-----|------------------------------------|------------|----------------------------------------------------------------------------------|
 | 1   | Majority Element                   | Easy       | [01_Majority_Element.py](array-string-problem/01_Majority_Element.py)           |
 | 2   | Find Missing and Repeated Values   | Easy       | [02_Find Missing_and_Repeated_Values.py](array-string-problem/02_Find%20Missing_and_Repeated_Values.py) |
+| 3   | Merge Sorted Array                 | Easy       | [03_Merge_Sorted_Array.py](array-string-problem/03_Merge_Sorted_Array.py) • [📘 Description](https://leetcode.com/problems/merge-sorted-array/description/) |
+| 4   | Single Number                      | Easy       | [04_Single_Number.py](array-string-problem/04_Single_Number.py) • [📘 Description](https://leetcode.com/problems/single-number/description/) |
 
 </details>
 
