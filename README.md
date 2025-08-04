@@ -6,11 +6,11 @@ This repo contains categorized and well-structured solutions with clean code, co
 ---
 
 ## 📊 Progress
++ ![Solved](https://img.shields.io/badge/Solved-14%20%2F%2015-blueviolet)
 
-![Solved](https://img.shields.io/badge/Solved-12%20%2F%2013-blueviolet)
 > Total problems solved in:
 - Strings: **8 / 9**
-- Arrays: **4 / 4**
+- Arrays: **6 / 6**
 
 ---
 
@@ -46,7 +46,8 @@ This repo contains categorized and well-structured solutions with clean code, co
 | 2   | Find Missing and Repeated Values | Easy       | [02_Find Missing_and_Repeated_Values.py](array-string-problem/02_Find%20Missing_and_Repeated_Values.py) | [Link](https://leetcode.com/problems/find-missing-and-repeated-values/description/) |
 | 3   | Merge Sorted Array               | Easy       | [03_Merge_Sorted_Array.py](array-string-problem/03_Merge_Sorted_Array.py)                             | [Link](https://leetcode.com/problems/merge-sorted-array/description/)         |
 | 4   | Single Number                    | Easy       | [04_Single_Number.py](array-string-problem/04_Single_Number.py)                                       | [Link](https://leetcode.com/problems/single-number/description/)              |
-
+| 5   | Best Time to Buy and Sell Stock        | Easy       | [05_Best_Time_to_Buy_and_Sell_Stock.py](array-string-problem/05_Best_Time_to_Buy_and_Sell_Stock.py)           | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
+| 6   | Maximum Subarray                       | Medium     | [06_Maximum_Subarray.py](array-string-problem/06_Maximum_Subarray.py)                                         | [Link](https://leetcode.com/problems/maximum-subarray/description/)
 </details>
 
 
