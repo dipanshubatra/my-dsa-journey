@@ -16,7 +16,7 @@ This repo contains categorized and well-structured solutions with clean code, co
 
 ## 🧵 String DSA Problems
 
-<details open>
+<details>
 <summary><strong>📂 String Problems (8 / 9 Solved)</strong> — Click to Expand</summary>
 
 | No. | Problem Title                       | Difficulty | Solution Link                                                                                  | 📘 Description                                                                 |
@@ -37,7 +37,7 @@ This repo contains categorized and well-structured solutions with clean code, co
 
 ## 🧮 Array DSA Problems
 
-<details open>
+<details>
 <summary><strong>📂 Array Problems (4 / 4 Solved)</strong> — Click to Expand</summary>
 
 | No. | Problem Title                     | Difficulty | Solution Link                                                                                          | 📘 Description                                                                 |
