@@ -10,7 +10,7 @@ This repo contains categorized and well-structured solutions with clean code, co
 
 > Total problems solved in:
 - Strings: **8 / 9**
-- Arrays: **6 / 6**
+- Arrays: **8 / 8**
 
 ---
 
@@ -38,7 +38,7 @@ This repo contains categorized and well-structured solutions with clean code, co
 ## 🧮 Array DSA Problems
 
 <details>
-<summary><strong>📂 Array Problems (4 / 4 Solved)</strong> — Click to Expand</summary>
+<summary><strong>📂 Array Problems (8 / 8 Solved)</strong> — Click to Expand</summary>
 
 | No. | Problem Title                     | Difficulty | Solution Link                                                                                          | 📘 Description                                                                 |
 |-----|-----------------------------------|------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
