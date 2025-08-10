@@ -48,6 +48,9 @@ This repo contains categorized and well-structured solutions with clean code, co
 | 4   | Single Number                    | Easy       | [04_Single_Number.py](array-string-problem/04_Single_Number.py)                                       | [Link](https://leetcode.com/problems/single-number/description/)              |
 | 5   | Best Time to Buy and Sell Stock        | Easy       | [05_Best_Time_to_Buy_and_Sell_Stock.py](array-string-problem/05_Best_Time_to_Buy_and_Sell_Stock.py)           | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | 6   | Maximum Subarray                       | Medium     | [06_Maximum_Subarray.py](array-string-problem/06_Maximum_Subarray.py)                                         | [Link](https://leetcode.com/problems/maximum-subarray/description/)
+| 7   | Pow(x, n)                              | Medium     | [07_Pow(x, n).py](array-string-problem/07_Pow(x,%20n).py)                                     | [Link](https://leetcode.com/problems/powx-n/description/)                     |
+| 8   | Sort Colors                            | Medium     | [08_Sort_Colors.py](array-string-problem/08_Sort_Colors.py)                                   | [Link](https://leetcode.com/problems/sort-colors/description/)                |
+
 </details>
 
 
