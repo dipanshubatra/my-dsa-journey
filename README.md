@@ -6,11 +6,13 @@ This repo contains categorized and well-structured solutions with clean code, co
 ---
 
 ## 📊 Progress
-+ ![Solved](https://img.shields.io/badge/Solved-14%20%2F%2015-blueviolet)
++ ![Solved](https://img.shields.io/badge/Solved-16%20%2F%2017-blueviolet)
 
 > Total problems solved in:
 - Strings: **8 / 9**
 - Arrays: **8 / 8**
+- Binary Search: **2 / 2**
+
 
 ---
 
@@ -50,6 +52,20 @@ This repo contains categorized and well-structured solutions with clean code, co
 | 6   | Maximum Subarray                       | Medium     | [06_Maximum_Subarray.py](array-string-problem/06_Maximum_Subarray.py)                                         | [Link](https://leetcode.com/problems/maximum-subarray/description/)
 | 7   | Pow(x, n)                              | Medium     | [07_Pow(x, n).py](array-string-problem/07_Pow(x,%20n).py)                                     | [Link](https://leetcode.com/problems/powx-n/description/)                     |
 | 8   | Sort Colors                            | Medium     | [08_Sort_Colors.py](array-string-problem/08_Sort_Colors.py)                                   | [Link](https://leetcode.com/problems/sort-colors/description/)                |
+
+</details>
+
+---
+
+## 🔍 Binary Search DSA Problems
+
+<details>
+<summary><strong>📂 Binary Search Problems (2 / 2 Solved)</strong> — Click to Expand</summary>
+
+| No. | Problem Title                        | Difficulty | Solution Link                                                                                         | 📘 Description                                                                 |
+|-----|--------------------------------------|------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 1   | Peak Index in a Mountain Array       | Medium     | [01_Peak_Index_in_a_Mountain_Array.py](BINARY-SEARCH/01_Peak%20Index_in_a_Mountain_Array.py)           | [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |
+| 2   | Search in Rotated Sorted Array       | Medium     | [02_Search_in_Rotated_Sorted_Array.py](BINARY-SEARCH/02_Search_in_Rotated_Sorted_Array.py)             | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
 
 </details>
 
